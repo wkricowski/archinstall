@@ -1278,7 +1278,7 @@ msgid "Logical Volume Management (LVM)"
 msgstr "Gerenciamento de Volume Lógico (LVM)"
 
 msgid "Physical volumes"
-msgstr "Volumes Físicos"
+msgstr "Volumes físicos"
 
 msgid "Volumes"
 msgstr "Volumes"
