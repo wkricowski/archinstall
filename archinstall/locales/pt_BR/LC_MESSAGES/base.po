@@ -1272,7 +1272,7 @@ msgid "Select a LVM option"
 msgstr "Selecione uma opção de LVM"
 
 msgid "Partitioning"
-msgstr "Particionando"
+msgstr "Particionado"
 
 msgid "Logical Volume Management (LVM)"
 msgstr "Gerenciamento de Volume Lógico (LVM)"
