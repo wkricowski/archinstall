@@ -1269,7 +1269,7 @@ msgid "Use NetworkManager (necessary to configure internet graphically in GNOME 
 msgstr "Usar NetworkManager (necessário para configurar internet graficamente no GNOME e KDE)"
 
 msgid "Select a LVM option"
-msgstr "Selecione uma opção de LVM"
+msgstr "Selecione uma opção de Gerenciador de Volume Logico"
 
 msgid "Partitioning"
 msgstr "Particionado"
